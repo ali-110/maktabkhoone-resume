@@ -1,0 +1,18 @@
+.fullpage{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-bottom: 3px solid;
+  }
+
+  
+.fullpage:first-child{
+  background-color: powderblue;
+}
+.fullpage:nth-child(2){
+  background-color: rgb(35, 49, 131);
+}
+.fullpage:nth-child(3){
+  background-color: rgb(201, 119, 187);
+}

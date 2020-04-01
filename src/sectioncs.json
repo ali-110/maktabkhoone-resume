@@ -1,0 +1,55 @@
+{
+    "header":{
+        "links":{
+            "about":"درباره من",
+            "contact":"مهارت های من"
+        }
+    },
+    "section1":{
+"title":"یاد شهدا",
+"midtitle":"حسین...آرامش من",
+"links":{
+    "instagram":"https://www.instagram.com/ali31sebti/",
+    "github":"https://github.com/ali-110",
+    "linkedin":"https://www.linkedin.com/in/ali-sebti-7745191a5/"
+
+}
+    },
+    "section2":{
+        "title":"درباره من",
+         "midtitle":"دارای مدرک کارشناسی ارشد از دانشگاه سراسری قم در رشته 'مهندسی فناوری اطلاعات' it هستم. در حال حاضر در شرکت 'داده پردازان نوین اهداف' دپنا، به عنوان کارشناس پرتال و کارشناس طراحی سایت، مشغول به کار هستم. "    
+   
+    },
+    "section3":{
+        "title":"مهارت ها",
+        "items":[
+            
+             {
+                "title":"html5",
+                "logo":"images/html.png"
+             },
+            {
+                   "title":"css3",
+                   "logo":"images/css3_icon-512.png"
+                },
+                {
+                    "title":"js",
+                    "logo":"images/js1.png"
+                 },
+                {
+                    "title":"jquery",
+                    "logo":"images/jquery.png"
+                 },
+                 {
+                    "title":"react",
+                    "logo":"images/react.png"
+                 },
+                 {
+                    "title":"c#",
+                    "logo":"images/csharp.png"
+                 }
+                ]
+
+        }
+
+}

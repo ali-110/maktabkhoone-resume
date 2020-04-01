@@ -1,0 +1,31 @@
+.magic{
+    position: fixed;
+    padding: 7px;
+    left: 0px;
+    top: 0px;
+    z-index: 15;
+  }
+   .magic img{
+    width: 28px;
+    cursor: pointer;
+  }
+  .firstbannermid>div:first-child{
+    width:fit-content;
+    margin:auto;
+    font-size:70px;
+    margin-top:200px;
+  
+  }
+
+  .firstbannermid>div:nth-child(2), .firstbannermid>div:nth-child(3){
+    width:fit-content;
+    margin:auto;
+  
+    margin-top: 20px;
+  }
+  
+  .firstbannermid{
+    display: flex;
+    flex-direction: column;
+  }
+  
